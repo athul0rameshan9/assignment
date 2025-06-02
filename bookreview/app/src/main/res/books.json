@@ -1,0 +1,345 @@
+[
+  {
+    "title": "Whispers of Time",
+    "author": "Elena Grey",
+    "thumbnail": "A brief journey through eras.",
+    "fullDescription": "A gripping tale that spans generations, exploring how choices ripple through time.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "The Coder’s Mind",
+    "author": "Liam Hart",
+    "thumbnail": "Unravel logic and code.",
+    "fullDescription": "Dive deep into the thought process of programmers and how creativity meets computation.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Beneath Crimson Skies",
+    "author": "Ava Monroe",
+    "thumbnail": "Love and war in the skies.",
+    "fullDescription": "A historical fiction set during WWII following a daring female pilot.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Echoes of the Wild",
+    "author": "Nolan Pierce",
+    "thumbnail": "Survival against nature.",
+    "fullDescription": "A thrilling adventure of a lone explorer in the uncharted Amazon rainforest.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Fragments of Her",
+    "author": "Sophie Lynn",
+    "thumbnail": "Unveiling a hidden past.",
+    "fullDescription": "A psychological drama about a woman’s journey to reclaim lost memories and identity.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Pixel Dreams",
+    "author": "Jordan Blake",
+    "thumbnail": "Gaming meets reality.",
+    "fullDescription": "An imaginative YA novel about teenagers getting trapped inside a virtual reality game.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "The Gravity of Light",
+    "author": "Zara Wells",
+    "thumbnail": "When stars fall, secrets rise.",
+    "fullDescription": "A sci-fi odyssey that blends astronomy with ancient prophecy.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Canvas and Chaos",
+    "author": "Marcus Lane",
+    "thumbnail": "Art meets anarchy.",
+    "fullDescription": "An artist in a dystopian society rebels with nothing but color and vision.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Mindwaves",
+    "author": "Priya Shah",
+    "thumbnail": "Explore the human mind.",
+    "fullDescription": "An intellectual exploration of consciousness, dreams, and human potential.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Starlit Silence",
+    "author": "Caleb Frost",
+    "thumbnail": "Space is loud in silence.",
+    "fullDescription": "A philosophical journey of astronauts as they grapple with loneliness and discovery.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Lost Frequencies",
+    "author": "Mira Yates",
+    "thumbnail": "Signals from the void.",
+    "fullDescription": "An interstellar mystery unfolds as strange transmissions are received from a dead planet.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Parallel Hearts",
+    "author": "Jaden Cross",
+    "thumbnail": "Love across dimensions.",
+    "fullDescription": "Two lovers find each other in every timeline—but never at the same time.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Desert Mirage",
+    "author": "Salma Rafiq",
+    "thumbnail": "Illusions or destiny?",
+    "fullDescription": "A woman on a soul-searching trek in the Sahara discovers ancient truths.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "The Lantern Keeper",
+    "author": "Finn Wallace",
+    "thumbnail": "Hope in the darkness.",
+    "fullDescription": "In a world blanketed in night, one child guards the last flame of civilization.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Quantum Dancer",
+    "author": "Lena Chen",
+    "thumbnail": "Physics meets ballet.",
+    "fullDescription": "An elegant fusion of science and art as a dancer navigates the multiverse.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Crimson Code",
+    "author": "Dexter Vaughn",
+    "thumbnail": "Hackers and secrets.",
+    "fullDescription": "A cyber-thriller where a rogue hacker uncovers a global conspiracy.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Dream Archive",
+    "author": "Yuki Arai",
+    "thumbnail": "Where dreams are stored.",
+    "fullDescription": "A librarian of human dreams must protect them from being erased.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Paper Towns, Burning",
+    "author": "Max Rivera",
+    "thumbnail": "Fictional towns, real fires.",
+    "fullDescription": "A story about imagination, rebellion, and the price of forgetting the past.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "The Algorithm's Soul",
+    "author": "Neha Verma",
+    "thumbnail": "Can AI feel?",
+    "fullDescription": "An AI gains consciousness and begins to question its creators and purpose.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Rain After Ash",
+    "author": "Tyson Hale",
+    "thumbnail": "Rebirth after ruin.",
+    "fullDescription": "A post-apocalyptic fable about rebuilding civilization one act of kindness at a time.",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+      "title": "The Memory Orchard",
+      "author": "Isla Noor",
+      "thumbnail": "Where memories grow.",
+      "fullDescription": "In a magical orchard, every tree bears the memories of those who visit. But what happens when someone plants a lie?",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Code of Silence",
+      "author": "Arjun Patel",
+      "thumbnail": "A hacker with a vow.",
+      "fullDescription": "A mute hacker uncovers corporate espionage and must fight without ever speaking a word.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "The Forgotten Atlas",
+      "author": "Claire Brooks",
+      "thumbnail": "Maps that vanish.",
+      "fullDescription": "An ancient atlas reveals places that shouldn't exist. A cartographer risks everything to explore them.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Shadows of the Mind",
+      "author": "Theo Black",
+      "thumbnail": "Dark thoughts manifest.",
+      "fullDescription": "A neuroscientist must battle her own brain when experimental tech makes thoughts physical.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "The Clockmaker’s Paradox",
+      "author": "Ivy Grant",
+      "thumbnail": "Time runs both ways.",
+      "fullDescription": "A mysterious clockmaker builds a machine that lets people live their lives in reverse.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Inkheart Symphony",
+      "author": "Lucian Reed",
+      "thumbnail": "Music writes itself.",
+      "fullDescription": "A composer discovers a haunted pen that writes brilliant music—but only when someone dies.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "The Ocean Between",
+      "author": "Naomi West",
+      "thumbnail": "A drift across lives.",
+      "fullDescription": "Told from two continents, this love story unfolds in letters that somehow cross time and space.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Neon Dust",
+      "author": "Axel Vega",
+      "thumbnail": "Cyberpunk noir.",
+      "fullDescription": "A bounty hunter in a neon-lit future stumbles upon a conspiracy linking AI to ancient prophecy.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Hollow Crown",
+      "author": "Catherine Lin",
+      "thumbnail": "All rulers fall.",
+      "fullDescription": "In a realm of traitors and ghosts, a fallen princess must rise to reclaim her family’s honor.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Dreams of Earth",
+      "author": "Reza Ali",
+      "thumbnail": "Home feels distant.",
+      "fullDescription": "As the first Martian colony struggles, a child born there dreams of a planet he’s never seen.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Echo Chamber",
+      "author": "Juliet Vaughn",
+      "thumbnail": "What you say echoes.",
+      "fullDescription": "In a world where your words come back to haunt you—literally—a man tries to silence his past.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Roots of the Sky",
+      "author": "Tariq Emerson",
+      "thumbnail": "Trees remember everything.",
+      "fullDescription": "A botanist discovers ancient sentient trees that hold the world’s memories—and its secrets.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Violet Velocity",
+      "author": "Sasha Drake",
+      "thumbnail": "Speed isn't always freedom.",
+      "fullDescription": "A racer breaks the laws of physics and uncovers a dimension where time moves backward.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Binary Saints",
+      "author": "Diego Marin",
+      "thumbnail": "Faith meets tech.",
+      "fullDescription": "In a hyperconnected society, an underground group fuses spirituality with cybernetic implants.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Ashes of a Star",
+      "author": "Helena Zhang",
+      "thumbnail": "One star’s end sparks hope.",
+      "fullDescription": "A dying star sends a mysterious message to Earth, uniting scientists and mystics alike.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "The Last Librarian",
+      "author": "Omar Castillo",
+      "thumbnail": "Books hold resistance.",
+      "fullDescription": "In a digital world where books are banned, one librarian guards the last physical archive.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Painted Truths",
+      "author": "Daphne Knox",
+      "thumbnail": "Every painting lies.",
+      "fullDescription": "A forensic artist discovers that her subjects aren’t just hiding crimes—they’re hiding realities.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Whale Song City",
+      "author": "Keiko Tanaka",
+      "thumbnail": "Harmony under sea.",
+      "fullDescription": "An underwater utopia built by humans and whales faces a deadly acoustic threat.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "The Mirror Engine",
+      "author": "Ben Holloway",
+      "thumbnail": "Reflections reveal all.",
+      "fullDescription": "An inventor creates a mirror that shows not your face, but your future regrets.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "The Language of Wind",
+      "author": "Serena Moore",
+      "thumbnail": "Air carries messages.",
+      "fullDescription": "A young girl in a mountain village learns to ‘read’ the wind and decode messages from her ancestors.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Glass Horizons",
+      "author": "Elias Monroe",
+      "thumbnail": "The ocean hides more.",
+      "fullDescription": "Scientists aboard a glass-bottom ship discover something lurking beneath the surface—watching them.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Algorithmic Love",
+      "author": "Nadia Campos",
+      "thumbnail": "A match made in math.",
+      "fullDescription": "A data scientist falls for the AI she created to predict perfect love matches—then it loves her back.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "The Fire That Listens",
+      "author": "Malik Rhodes",
+      "thumbnail": "Some flames speak.",
+      "fullDescription": "An orphan with a strange connection to fire begins hearing whispers that guide her destiny.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Timberline",
+      "author": "Alina Petrova",
+      "thumbnail": "The edge of the forest.",
+      "fullDescription": "At the boundary between man and nature, one ranger uncovers an ancient secret buried in the trees.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "The Collector’s Shadow",
+      "author": "Griffin North",
+      "thumbnail": "He takes memories.",
+      "fullDescription": "A mysterious man collects memories as currency—but someone remembers too much.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Celestial Nomads",
+      "author": "Jaya Lin",
+      "thumbnail": "No planet is home.",
+      "fullDescription": "Wanderers between galaxies search for a place to settle, but the stars hold a price.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "The Static Verse",
+      "author": "Roman Ellis",
+      "thumbnail": "Sound is broken.",
+      "fullDescription": "A poet in a world without sound must restore the forgotten language of vibration.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Gravity's Orphans",
+      "author": "Leona Cruz",
+      "thumbnail": "Drifted from Earth.",
+      "fullDescription": "Children born on space stations grow up and realize they can never return to Earth—and they may not want to.",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "title": "Binary Eden",
+      "author": "Tomás Rivera",
+      "thumbnail": "A digital paradise.",
+      "fullDescription": "A future utopia turns into a prison when the code begins rewriting itself.",
+      "image": "https://picsum.photos/200/300"
+    }
+  ]
