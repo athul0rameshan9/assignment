@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">book_app_athul</string>
+    <string name="book_thumbnail">Book Thumbnail</string>
+    <string name="book_cover_image">Book Cover Image</string>
+    <string name="description_label">Description:</string>
+    <string name="rating_label">Rating:</string>
+
+
+</resources>
